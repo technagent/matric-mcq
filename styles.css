@@ -41,6 +41,7 @@ body {
   display: grid; place-items: center;
   background: #fff; color: var(--brand); font-weight: 800; font-size: 1.2rem;
 }
+.brand-name { font-size: .72rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; opacity: .9; }
 .brand-title { font-weight: 700; }
 .brand-sub { font-size: .8rem; opacity: .85; }
 .timer {
